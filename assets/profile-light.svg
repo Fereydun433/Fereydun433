@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1040" height="624" viewBox="0 0 1040 624" role="img" aria-labelledby="title desc">
 <title id="title">GitHub profile with ASCII portrait</title>
-<desc id="desc">Editable profile template. The portrait is entirely ASCII text; replace the example profile fields before using this optional card.</desc>
+<desc id="desc">An ASCII portrait on the left, with an empty area on the right.</desc>
 <rect x="0.5" y="0.5" width="1039" height="623" rx="18" fill="#ffffff" stroke="#d0d7de"/>
 <g font-family="DejaVu Sans Mono,Consolas,monospace" font-size="8.13953" font-variant-ligatures="none" xml:space="preserve">
 <text y="23.5472">
@@ -3305,21 +3305,4 @@
 <text y="606">
 </text>
 </g>
-<g font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13">
-<text x="522" y="112" fill="#0969da">Fereydun433@github</text>
-<path d="M 522 130 H 1004" stroke="#d0d7de"/>
-<text x="522" y="172" fill="#0969da">About</text>
-<text x="522" y="206" fill="#953800">Focus:</text>
-<path d="M 576.6 202 H 809" stroke="#6e7781" stroke-dasharray="1 6"/>
-<text x="1004" y="206" text-anchor="end" fill="#24292f">GNSS / Signal Processing</text>
-<text x="522" y="237" fill="#953800">Code:</text>
-<path d="M 568.8 233 H 949.4" stroke="#6e7781" stroke-dasharray="1 6"/>
-<text x="1004" y="237" text-anchor="end" fill="#24292f">MATLAB</text>
-<text x="522" y="292" fill="#0969da">Projects</text>
-<text x="522" y="326" fill="#953800">Signal:</text>
-<path d="M 584.4 322 H 824.6" stroke="#6e7781" stroke-dasharray="1 6"/>
-<text x="1004" y="326" text-anchor="end" fill="#24292f">Galileo E5 Meta-Signal</text>
-<text x="522" y="357" fill="#953800">Tracking:</text>
-<path d="M 600 353 H 879.2" stroke="#6e7781" stroke-dasharray="1 6"/>
-<text x="1004" y="357" text-anchor="end" fill="#24292f">Vector Tracking</text>
-</g></svg>
+</svg>
